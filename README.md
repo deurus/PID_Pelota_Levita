@@ -19,8 +19,7 @@ Las piezas amarillas están impresas en 3D y sirven para asegurar el caudal de a
 
 <h2>Implementación</h2>
 <p>Nuestro propósito es posicionar con precisión la pelota en un lugar específico dentro del tubo. Utilizamos un sensor de distancia ultrasónico para medir la distancia exacta de la pelota, expresada en centímetros. A continuación, ajustamos la velocidad de giro del ventilador empleando una señal de modulación de ancho de pulso (PWM, por sus siglas en inglés). Este método nos permite variar finamente la potencia aplicada al ventilador y, por ende, controlar la altura a la que se mantiene la pelota.</p>
-<br>
 https://www.youtube.com/watch?v=kyfIPwP09Ao
-<br>
+<br><br>
 Tenéis más información en la entrada del blog:<br>
 https://garikoitz.info/blog/2024/03/sintonizar-pid-con-arduino-control-de-posicion-de-una-pelota-en-levitacion/
